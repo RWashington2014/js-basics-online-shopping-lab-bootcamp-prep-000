@@ -141,11 +141,11 @@ function removeFromCart(item) {
 
 
 
-  if (cart[2].hasOwnProperty(item) === true) {
+  //if (cart[2].hasOwnProperty(item) === true) {
 
     cart.pop()
 
-  }
+//  }
 console.log(list)
 
 
