@@ -147,7 +147,7 @@ function removeFromCart(item) {
 
 //  }
 console.log(list)
-
+return cart
 
 }
 
